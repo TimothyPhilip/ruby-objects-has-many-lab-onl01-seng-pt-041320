@@ -1,4 +1,4 @@
-class Song
+class Post
   attr_accessor :author 
   
   @@all = []
