@@ -16,7 +16,7 @@ class Post
    @title
   end
 
-  def arthor_name 
+  def author_name 
    if self.author
      self.author.name 
    else 
